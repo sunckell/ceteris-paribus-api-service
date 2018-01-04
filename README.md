@@ -1,2 +1,2 @@
-# ceteris-paribus-api-service
-All else equal
+# Ceteris Paribus API Service
+When All else equal
